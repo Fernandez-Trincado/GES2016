@@ -1,4 +1,4 @@
-Gaia-Eos Survey: Dynamical constraints of the Milky Way using GRAPOT
+Gaia-ESO Survey: Dynamical constraints of the Milky Way using GRAPOT
 ===
 
 
